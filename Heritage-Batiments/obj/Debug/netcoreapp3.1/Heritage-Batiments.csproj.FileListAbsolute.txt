@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\bin\Debug\netcoreapp3.1\Heritage-Batiments.exe
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\bin\Debug\netcoreapp3.1\Heritage-Batiments.deps.json
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\bin\Debug\netcoreapp3.1\Heritage-Batiments.runtimeconfig.json
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\bin\Debug\netcoreapp3.1\Heritage-Batiments.runtimeconfig.dev.json
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\bin\Debug\netcoreapp3.1\Heritage-Batiments.dll
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\bin\Debug\netcoreapp3.1\Heritage-Batiments.pdb
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\obj\Debug\netcoreapp3.1\Heritage-Batiments.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\obj\Debug\netcoreapp3.1\Heritage-Batiments.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\obj\Debug\netcoreapp3.1\Heritage-Batiments.AssemblyInfo.cs
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\obj\Debug\netcoreapp3.1\Heritage-Batiments.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\obj\Debug\netcoreapp3.1\Heritage-Batiments.dll
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\obj\Debug\netcoreapp3.1\Heritage-Batiments.pdb
+C:\Users\User\source\repos\Heritage-Batiments\Heritage-Batiments\obj\Debug\netcoreapp3.1\Heritage-Batiments.genruntimeconfig.cache
